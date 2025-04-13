@@ -8,3 +8,5 @@ I learned what a flow diagram was and how to make 1. I also learned that one of 
 
 I learned that there are some important considerations when implementing many people are working together- There are lots of things inside this like depending on others, the differing opions between developers, a developer might be super lazy/not capible, personal issues, and the enviorment.
 
+I learned that setting realistic goals is super important. It helps everyone stay chill and not get too stressed. If you promise too much, people get let down. But if you keep it real and deliver more than expected, people trust you.
+
