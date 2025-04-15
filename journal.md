@@ -10,3 +10,6 @@ I learned that there are some important considerations when implementing many pe
 
 I learned that setting realistic goals is super important. It helps everyone stay chill and not get too stressed. If you promise too much, people get let down. But if you keep it real and deliver more than expected, people trust you.
 
+I learned that writing stuff down is for me as much as it is for others. If I explain what I did and why, it’s way easier to fix stuff later or explain it to someone else. It might seem boring, but it really helps in the long run.
+
+
